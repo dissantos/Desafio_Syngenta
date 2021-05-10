@@ -1,0 +1,3 @@
+- Scipy
+- Os
+- Pillow
