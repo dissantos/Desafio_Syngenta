@@ -19,5 +19,5 @@ if __name__ == "__main__":
             if pixels[i,j] == green_pixel:
                 count += 1
 
-    print("Green pixel number: "+count)
+    print("Green pixel number: ",count)
     pass
